@@ -24,7 +24,7 @@ Run this checklist whenever a person (including Brian) departs or loses access t
 
 ## Communication & Accounts
 
-- [ ] Revoke access to **email** (brian.reich@thecoresolution.com or client aliases)
+- [ ] Revoke access to **email** (brian@ccglabs.net or client aliases)
 - [ ] Remove from any **Slack / messaging** workspaces
 - [ ] Update **client contact records** in `CCG Labs Agent/Clients/` to reflect the new point of contact
 

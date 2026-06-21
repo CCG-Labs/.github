@@ -20,6 +20,6 @@ We pledge to make participation in CCG Labs projects a harassment-free experienc
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported to **brian.reich@thecoresolution.com**. All complaints will be reviewed and investigated promptly and fairly.
+Instances of unacceptable behavior may be reported to **brian@ccglabs.net**. All complaints will be reviewed and investigated promptly and fairly.
 
 CCG Labs maintainers have the right to remove, edit, or reject contributions that do not align with this Code of Conduct.

@@ -14,7 +14,7 @@ Older releases are not patched. If you are using a pinned or forked version, ple
 
 **Do not file a public GitHub issue for security vulnerabilities.**
 
-Email **brian.reich@thecoresolution.com** with:
+Email **brian@ccglabs.net** with:
 - A description of the vulnerability and affected repository
 - Steps to reproduce or a proof-of-concept (if safe to share)
 - Your assessment of impact and severity

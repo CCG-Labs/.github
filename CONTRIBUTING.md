@@ -44,4 +44,4 @@ docs(readme): update deployment instructions
 
 ## Questions?
 
-Open a GitHub Discussion or email brian.reich@thecoresolution.com.
+Open a GitHub Discussion or email brian@ccglabs.net.
